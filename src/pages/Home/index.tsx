@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import homeImage from './home.jpg'
+import homeImage from './home.webp'
 import Logo from 'components/Logo'
 
 const Home = () => (
